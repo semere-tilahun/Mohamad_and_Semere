@@ -1,0 +1,16 @@
+#header{
+    text-align: center;
+    background:lightgray;
+}
+#image{
+    text-align: center;
+    background: white;
+}
+#timeline{
+    text-align: center;
+    background: lightgray;
+
+}
+#footer{
+    font-size: medium;
+}
